@@ -45,8 +45,7 @@ Since humans cannot see in 10 dimensions, the notebook uses **PCA (Principal Com
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/your-username/word2vec-from-scratch.git
-
+https://github.com/AthithyaKrishnaa/Training-Word-Embeddings
 ```
 
 
@@ -57,4 +56,4 @@ pip install tensorflow numpy matplotlib scikit-learn
 ```
 
 
-3. **Run the notebook**: Open `train_word_embedding.ipynb` in Jupyter or Google Colab and run all cells.
+3. **Run the notebook**: Open `train-word-embedding.ipynb` in Jupyter or Google Colab and run all cells.
