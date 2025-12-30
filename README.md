@@ -56,3 +56,7 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 
 3. **Run the notebook**: Open `train-word-embedding.ipynb` in Jupyter or Google Colab and run all cells.
+
+## Output
+
+<img width="1033" height="761" alt="visualized_output" src="https://github.com/user-attachments/assets/27b34507-c782-4ccc-9225-2df47d51616d" />
