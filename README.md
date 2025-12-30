@@ -48,7 +48,6 @@ Since humans cannot see in 10 dimensions, the notebook uses **PCA (Principal Com
 https://github.com/AthithyaKrishnaa/Training-Word-Embeddings
 ```
 
-
 2. **Install dependencies**:
 ```bash
 pip install tensorflow numpy matplotlib scikit-learn
