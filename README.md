@@ -58,7 +58,3 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 
 3. **Run the notebook**: Open `train_word_embedding.ipynb` in Jupyter or Google Colab and run all cells.
-
----
-
-**Would you like me to add a section on how to tune the hyperparameters (like embedding size or window size) to this README?**
